@@ -1,0 +1,13 @@
+.two{
+    position:absolute;
+    top:520px;
+    left: 140px;
+
+z-index: -1;
+}
+
+.one{
+    position: absolute;
+    left: 20px;
+  
+}
